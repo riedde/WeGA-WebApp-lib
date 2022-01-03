@@ -2,3 +2,4 @@
 local.build.properties
 dist
 build
+.DS_Store
